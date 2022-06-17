@@ -72,7 +72,7 @@
     "axios": "^0.21.0",
     "concurrently": "^5.2.0",
     "crypto-js": "^4.0.0",
-    "electron": "^10.1.5",
+    "electron": "^15.5.5",
     "electron-builder": "^22.9.1",
     "electron-builder-squirrel-windows": "^22.9.1",
     "node-fetch": "^2.6.1",
